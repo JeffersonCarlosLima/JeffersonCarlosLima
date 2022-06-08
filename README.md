@@ -32,7 +32,6 @@ E Sou Ux Design e design grafico em uma empresa de software, aspirante a desenvo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonCarlosLima&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/JeffersonCarlosLima)
 
 ---
 
