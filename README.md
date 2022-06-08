@@ -9,26 +9,7 @@ E Sou Ux Design e design grafico em uma empresa de software, aspirante a desenvo
  
  🌱 Atualmente estou aprendendo JavaScrypt, Angular e Python
 
- 📫 How to reach me jeffersoncl200@gmail.com
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-### Olá sou Jefferson 👋
-
----
-
-
-E Sou Ux Design e design grafico em uma empresa de software, aspirante a desenvoledor FrontEnd WEB.:wink:
- 
- 🔭 Estou planejando uma site **Vision: Wiki Muscle the rebuild**.
- 
- 🌱 Atualmente estou aprendendo JavaScrypt, Angular e Python
-
- 📫 How to reach me jeffersoncl200@gmail.com
- 
- :books: atualmente estou estudando: ![figma](https://user-images.githubusercontent.com/92160349/172679919-7e511249-693b-4e04-b0cb-14ddd1940c7f.svg) , ![javascript](https://user-images.githubusercontent.com/92160349/172680362-10279753-4158-4a41-ba49-a96f033bc379.svg) e ![angular](https://user-images.githubusercontent.com/92160349/172680378-a06e0ab3-7c11-49f5-a781-d1cbd1e16610.svg)
-
-
-
- 
+ 📫 How to reach me jeffersoncl200@gmail.com 
 
 
 ![Profile views](https://gpvc.arturio.dev/JeffersonCarlosLima)  <img src="https://img.shields.io/github/followers/JeffersonCarlosLima?label=Follow" style=" float:left, margin-right:10px" />
