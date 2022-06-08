@@ -47,5 +47,4 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/J
 
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/jeffersoncarloslima/
-[linkedin]: https://www.linkedin.com/in/jefferson-carlos-99287b16a/-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
+[linkedin]: https://www.linkedin.com/in/jefferson-carlos-99287b16a/
