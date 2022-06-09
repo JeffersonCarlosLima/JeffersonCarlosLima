@@ -46,4 +46,4 @@ E Sou Ux Design e design grafico em uma empresa de software, aspirante a desenvo
 
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/jeffersoncarloslima/
-[linkedin]: https://www.linkedin.com/in/jefferson-carlos-99287b16a/
+[linkedin]: www.linkedin.com/in/jefferson-carlos-lima
