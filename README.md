@@ -3,11 +3,9 @@
 ---
 
 
-E Sou Ux Design e design grafico em uma empresa de software, aspirante a desenvoledor FrontEnd WEB.:wink:
+E Sou estudante de Desenvolvedor FrontEnd em uma empresa de software, amante de tecnologia.:wink:
  
- 🔭 Estou planejando uma site **Vision: Wiki Muscle the rebuild**.
- 
- 🌱 Atualmente estou aprendendo JavaScrypt, Angular e Python
+ 🌱 Atualmente estou trabalhando com FlutterFlow
 
  📫 How to reach me jeffersoncl200@gmail.com 
 
@@ -45,5 +43,5 @@ E Sou Ux Design e design grafico em uma empresa de software, aspirante a desenvo
 
 
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/jeffersoncarloslima/
+[instagram]: https://www.instagram.com/jeffersonlimaux/
 [linkedin]: www.linkedin.com/in/jefferson-carlos-lima
