@@ -3,7 +3,7 @@
 ---
 
 
-E Sou estudante de Desenvolvedor FrontEnd em uma empresa de software, amante de tecnologia.:wink:
+E Sou estudante de Desenvolvedor FrontEnd em uma empresa de software, amante de tecnologia. :wink:
  
  🌱 Atualmente estou trabalhando com FlutterFlow
 
